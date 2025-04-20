@@ -87,7 +87,7 @@ Triggers a fake call to a registered emergency contact to alert them that the us
 
 ### 🚗 License Plate Checker 
 
-<img width="333" alt="Screenshot 2025-04-20 at 4 26 22 PM" src="https://github.com/user-attachments/assets/504c5fcd-1ff9-4d4d-be17-f91f08363b0f" />
+<img width="321" alt="Screenshot 2025-04-20 at 4 48 42 PM" src="https://github.com/user-attachments/assets/99b716b5-bd92-42b0-9bab-1a8be7a6931f" />
 
 ### 📱 Fake Phone Feature
 
