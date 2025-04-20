@@ -63,9 +63,27 @@ Triggers a fake call to a registered emergency contact to alert them that the us
 
 ---
 
-## 🚀 Getting Started
+## 📸 Screenshots
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/Muppidi-Aditya/Sahaay_Women_Safety_Application
-cd Sahaay_Women_Safety_Application
+### 🔐 Login Page && Register page
+
+<img width="333" alt="Screenshot 2025-04-20 at 4 00 43 PM" src="https://github.com/user-attachments/assets/c33d0261-a83e-4918-a86c-e515f2856d17" />
+<img width="334" alt="Screenshot 2025-04-20 at 4 05 46 PM" src="https://github.com/user-attachments/assets/9c400332-1918-435f-bb92-10f7e94b6db1" />
+
+### 🗺️ Safe Route Navigation Result
+
+<img width="336" alt="Screenshot 2025-04-20 at 4 11 20 PM" src="https://github.com/user-attachments/assets/6a4d57bb-bad3-4b6a-9a0c-5b72f9a32889" />
+<img width="336" alt="Screenshot 2025-04-20 at 4 11 33 PM" src="https://github.com/user-attachments/assets/570b9564-da3d-452a-ab79-c34617cb2137" />
+
+
+
+
+
+### 🧠 Sahaaya AI Assistant
+![Sahaaya AI](./screenshots/ai_chatbot.png)
+
+### 🔥 Crime Heat Map
+![Crime Heat Map](./screenshots/crime_heatmap.png)
+
+### 📱 Fake Phone Feature
+![Fake Phone](./screenshots/fake_phone.png)
