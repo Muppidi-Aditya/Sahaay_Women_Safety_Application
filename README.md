@@ -1,4 +1,4 @@
-![Untitled design](https://github.com/user-attachments/assets/ba538813-8ca5-415a-a047-088d3703c425)# Sahaay: Women Safety Application 👩‍💼🛡️
+# Sahaay: Women Safety Application 👩‍💼🛡️
 
 Sahaay is a comprehensive women safety application developed as part of a college minor project. It is designed to assist women in critical situations by providing features such as safe route navigation, AI-powered assistance, crime heatmaps, and more. The project integrates real-time data, AI services, and mapping APIs to deliver a robust safety solution.
 
