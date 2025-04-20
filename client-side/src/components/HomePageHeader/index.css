@@ -1,0 +1,126 @@
+.hp-hm-header {
+    height: 120px;
+    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 30px;
+    padding-left: 15px;
+}
+
+.website-logo {
+    height: 100%;
+}
+
+.website-menu-btn {
+    font-size: 50px;
+    color: #703D58;
+}
+
+.header-menu-block {
+    height: 95vh;
+    width: calc(100vw - 60px);
+    position: absolute;
+    background-color: white;
+    top: 0;
+    left: 30px;
+    border-radius: 25px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    display: flex;
+    flex-direction: column;
+    transition: 0.7s;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.cross-block {
+    width: 100%;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    font-size: 40px;
+    padding: 20px;
+}
+
+.logout-btn {
+    height: 70px;
+    width: 100%;
+    border-style: solid;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    margin-top: 10px;
+    background-color: #F7A8C4;
+    border-style: none;
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.menu-block {
+    height: 100%;
+    width: 100%;
+    padding: 10px;
+}
+
+.menu-head-1 {
+    font-family: "Special Gothic", sans-serif;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.phone-number-edit {
+    font-family: "Special Gothic", sans-serif;
+    font-size: 20px;
+    margin-bottom: 6px;
+}
+
+.phn-number-block {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 35px;
+}
+
+.delete-btn-block {
+    height: 30px;
+    width: 30px;
+    display: flex;
+    border-style: none;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    color: red;
+}
+
+.add-new-number-block {
+    height: 50px;
+    width: 100%;
+    margin-top: 15px;
+    display: flex;
+}
+
+.add-new-num-btn {
+    height: 50px;
+    width: 50px;
+    font-size: 22px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    border-style: solid;
+}
+
+.add-new-number-block input {
+    width: 100%;
+    margin-right: 6px;
+    outline: none;
+    padding-left: 10px;
+    font-size: 18px;
+    border-radius: 8px;
+    border-style: solid;
+    font-family: "Atkinson Hyperlegible Mono", sans-serif;
+    border-color: black;
+}

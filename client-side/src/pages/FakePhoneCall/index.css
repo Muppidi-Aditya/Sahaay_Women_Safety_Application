@@ -1,0 +1,30 @@
+.fake-phone-call-main-div {
+    background: linear-gradient(to top, #AC1754, #E53888, #F7A8C4, #fff);
+    height: 100vh;
+    width: 100vw;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.fk-main-block {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    font-family: "Poppins", sans-serif;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.fake-phn-call-btn {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    font-family: "Sigmar", sans-serif;
+    border-style: none;
+    font-size: 25px;
+    color: #E53888;
+}

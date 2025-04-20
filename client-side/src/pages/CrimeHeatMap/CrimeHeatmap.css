@@ -1,0 +1,59 @@
+/* CrimeHeatmap.css */
+.crime-heatmap-container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    background: linear-gradient(to top, #AC1754, #E53888, #F7A8C4, #fff);
+    height: 100dvh;
+  }
+  
+  .map-container {
+    height: 600px;
+    width: 100%;
+    margin: 20px 0;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+  }
+  
+  .loading, .error, .no-data {
+    text-align: center;
+    padding: 50px;
+    font-size: 18px;
+  }
+  
+  .error {
+    color: #d32f2f;
+  }
+  
+  .legend {
+    margin-top: 20px;
+    padding: 10px;
+    background: #f5f5f5;
+    border-radius: 5px;
+  }
+  
+  .legend-gradient {
+    display: flex;
+    margin-top: 10px;
+  }
+  
+  .legend-gradient span {
+    flex: 1;
+    height: 20px;
+    text-align: center;
+    color: #333;
+    font-size: 12px;
+    line-height: 20px;
+  }
+  
+  .data-info {
+    margin-top: 10px;
+    font-style: italic;
+    color: white;
+  }
+
+  .heat-map-h1 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 550;
+  }

@@ -1,0 +1,103 @@
+.home-page-main-bg {
+    background: linear-gradient(to top, #AC1754, #E53888, #F7A8C4, #fff);
+    min-height: 100dvh;
+    max-height: 130dvh;
+    width: 100vw;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.website-logo-edit-hp {
+    height: 150px;
+}
+
+.home-page-main-block {
+    height: 100%;
+    width: 100vw;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.hp-name-block {
+    height: 100px;
+    width: 100%;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    display: flex;
+    align-items: center;
+    padding-left: 25px;
+    color: #703D58;
+    font-family: "Atkinson Hyperlegible Mono", sans-serif;
+    font-size: 12px;
+}
+
+.hp-features-main-block {
+    width: 100%;
+    margin-top: 12px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+}
+
+/* Updated link style */
+.hp-feature-link {
+    width: calc(50% - 6px);
+    text-decoration: none;
+    color: inherit;
+    transition: transform 0.2s ease;
+}
+
+.hp-feature-link:hover {
+    transform: translateY(-5px);
+}
+
+.hp-feature-block {
+    height: 150px;
+    width: 100%;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    transition: all 0.3s ease;
+    border: 2px solid transparent;
+}
+
+/* Hover effect for feature blocks */
+.hp-feature-link:hover .hp-feature-block {
+    box-shadow: rgba(172, 23, 84, 0.3) 0px 8px 24px;
+    border-color: #AC1754;
+}
+
+.hp-feature-icon {
+    font-size: 42px;
+    margin-bottom: 20px;
+    color: #AC1754;
+    transition: all 0.3s ease;
+}
+
+.hp-feature-link:hover .hp-feature-icon {
+    transform: scale(1.1);
+}
+
+.hp-feature-text {
+    color: #703D58;
+    font-family: "Poppins", sans-serif;
+    text-align: center;
+    font-weight: 550;
+    font-size: 18px;
+    transition: color 0.3s ease;
+}
+
+/* Media queries for responsive layout */
+@media (max-width: 480px) {
+    .hp-feature-link {
+        width: 100%;
+    }
+}
