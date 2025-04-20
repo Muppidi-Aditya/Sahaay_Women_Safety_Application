@@ -91,5 +91,5 @@ Triggers a fake call to a registered emergency contact to alert them that the us
 
 ### 📱 Fake Phone Feature
 
-<img width="333" alt="Screenshot 2025-04-20 at 4 26 22 PM" src="https://github.com/user-attachments/assets/32bc6853-3793-4bf4-9d55-e13ba9428b2e" />
+<img width="274" alt="Screenshot 2025-04-20 at 4 41 02 PM" src="https://github.com/user-attachments/assets/254d9103-9941-445b-ae38-ae64daacca16" />
 <img width="333" alt="Screenshot 2025-04-20 at 4 26 22 PM" src="https://github.com/user-attachments/assets/c21534be-1db0-4076-93c2-91f712407001" />
