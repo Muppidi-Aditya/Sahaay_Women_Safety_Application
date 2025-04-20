@@ -1,4 +1,4 @@
-# Sahaay: Women Safety Application 👩‍💼🛡️
+![Untitled design](https://github.com/user-attachments/assets/ba538813-8ca5-415a-a047-088d3703c425)# Sahaay: Women Safety Application 👩‍💼🛡️
 
 Sahaay is a comprehensive women safety application developed as part of a college minor project. It is designed to assist women in critical situations by providing features such as safe route navigation, AI-powered assistance, crime heatmaps, and more. The project integrates real-time data, AI services, and mapping APIs to deliver a robust safety solution.
 
@@ -68,24 +68,30 @@ Triggers a fake call to a registered emergency contact to alert them that the us
 ### 🔐 Login Page && Register page
 
 <img width="333" alt="Screenshot 2025-04-20 at 4 00 43 PM" src="https://github.com/user-attachments/assets/c33d0261-a83e-4918-a86c-e515f2856d17" />
-
 <img width="334" alt="Screenshot 2025-04-20 at 4 05 46 PM" src="https://github.com/user-attachments/assets/9c400332-1918-435f-bb92-10f7e94b6db1" />
 
 ### 🗺️ Safe Route Navigation Result
 
 <img width="336" alt="Screenshot 2025-04-20 at 4 11 20 PM" src="https://github.com/user-attachments/assets/6a4d57bb-bad3-4b6a-9a0c-5b72f9a32889" />
-
 <img width="336" alt="Screenshot 2025-04-20 at 4 11 33 PM" src="https://github.com/user-attachments/assets/570b9564-da3d-452a-ab79-c34617cb2137" />
-
-
-
-
+<img width="337" alt="Screenshot 2025-04-20 at 4 12 12 PM" src="https://github.com/user-attachments/assets/6ca8eec5-2484-4b0f-be22-54a5a8888c8f" />
 
 ### 🧠 Sahaaya AI Assistant
-![Sahaaya AI](./screenshots/ai_chatbot.png)
+
+<img width="331" alt="Screenshot 2025-04-20 at 4 16 43 PM" src="https://github.com/user-attachments/assets/dbf79551-710b-43df-91e9-27be1f5b258a" />
+<img width="332" alt="Screenshot 2025-04-20 at 4 16 51 PM" src="https://github.com/user-attachments/assets/9eb0cdb0-5bcd-4aa4-97b7-1241b75c5c01" />
 
 ### 🔥 Crime Heat Map
-![Crime Heat Map](./screenshots/crime_heatmap.png)
+
+<img width="334" alt="Screenshot 2025-04-20 at 4 23 46 PM" src="https://github.com/user-attachments/assets/56a7cc96-b7d8-4a7c-9aa2-86f45b603de6" />
+
+### 🚗 License Plate Checker 
+
+<img width="333" alt="Screenshot 2025-04-20 at 4 26 22 PM" src="https://github.com/user-attachments/assets/504c5fcd-1ff9-4d4d-be17-f91f08363b0f" />
 
 ### 📱 Fake Phone Feature
-![Fake Phone](./screenshots/fake_phone.png)
+
+![Untitled design](https://github.com/user-attachments/assets/32bc6853-3793-4bf4-9d55-e13ba9428b2e)
+![WhatsApp Image 2025-04-20 at 16 30 01](https://github.com/user-attachments/assets/c21534be-1db0-4076-93c2-91f712407001)
+
+
